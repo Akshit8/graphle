@@ -18,14 +18,24 @@
   - The generated images are shown to the smart screen in the classroom or to the induvidual screen of the student(Remote Classroom).(Sessions can be viewed on our website)
 
 ```
-*****************************************************************************************************************************************************************************
+***********************************************************************************************************************
 ```
 ![Remote](assets/img/remote.png)
+```
+***********************************************************************************************************************
+```
 ![Classroom](assets/img/classroom.png)
+```
+***********************************************************************************************************************
+```
 
 ## Neural Network Architecture
 [Reference](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)
 ![Architecture](assets/img/GAN.png)
+
+```
+***********************************************************************************************************************
+```
 
 ## Screenshots
 ![Screenshot](assets/screens/1.png)
