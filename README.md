@@ -19,8 +19,7 @@
 
 
 ![Remote](assets/img/remote.png)
-
-
+<br>
 ![Classroom](assets/img/classroom.png)
 
 
