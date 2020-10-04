@@ -15,20 +15,28 @@
  <img src = "assets/img/Stats.svg">
 </p>
 
-## Solution - Workflow
+<h2 align="center">Solution - Workflow</h2>
+<br>
 
-  - An android app which captures speech of the teacher/instructor and converts it to text and sends it to our backend
+ - An android app which captures speech of the teacher/instructor and converts it to text and sends it to our backend
   - The text is processed and converted into images using Neural Networs(Generative adversarial network)
   - The generated images are shown to the smart screen in the classroom or to the induvidual screen of the student(Remote Classroom).(Sessions can be viewed on our website)
 
 ![Remote](assets/img/remote.png)<br/>
 ![Classroom](assets/img/classroom.png)
 
-## Neural Network Architecture
+<h2 align="center">Neural Network Architecture</h2>
+<br>
+
 [Reference](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)
 ![Architecture](assets/img/GAN.png)
 
-## workflow
+<h2 align="center">Workflow</h2>
+<br>
+
 ![workflow](assets/img/workflow.png)
+
+<h2 align="center">Tech Stacks</h2>
+<br>
 
 ![Tech Stack](assets/img/techstack.png)
