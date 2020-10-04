@@ -23,14 +23,14 @@
   - The generated images are shown to the smart screen in the classroom or to the induvidual screen of the student(Remote Classroom).(Sessions can be viewed on our website)
 
 <p align="center">
- <img src = "assets/img/remote.svg">
+ <img src = "assets/img/remote.png">
 </p>
 <br>
 <br>
 <br>
 <br>
 <p align="center">
- <img src = "assets/img/classroom.svg">
+ <img src = "assets/img/classroom.png">
 </p>
 
 <h2 align="center">Neural Network Architecture</h2>
