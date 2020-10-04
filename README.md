@@ -52,5 +52,5 @@
 <br>
 
 <p align="center">
- <img src = "assets/img/techstack.png">
+ <img src = "assets/img/techstack.svg">
 </p>
