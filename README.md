@@ -12,6 +12,13 @@
   <a href="https://graphle.ml">Start Graphling</a>
 </div>
 
+<p align="center">Autistic kids often recieves education in a special way where concepts are delivered in a graphical way. Research says that visual memory is 60,000X faster than text/auditory memory. Inspired by graphical learning we created Graphle, a very effective visual learning tool for strengthening visual memory of our students.
+</p>
+<br>
+<p align="center">
+With use of cutting-edge technology, Graphle can be of greate use in remote education, where teachers can take their classroom boards to their students and allow graphle simplify concepts for them.
+</p>
+
 <br>
 <h2 align="center">Market Research</h2>
 <br>
