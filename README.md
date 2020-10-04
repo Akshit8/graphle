@@ -21,6 +21,13 @@
 </p>
 
 <br>
+<br>
+
+<p align="center">
+ <img src = "assets/img/stats2.svg">
+</p>
+
+<br>
 <h2 align="center">Our Solution</h2>
 <br>
 
