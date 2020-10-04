@@ -33,7 +33,7 @@
 <br>
 
  - An android app which captures speech of the teacher/instructor and converts it to text and sends it to our backend
-  - The text is processed and converted into images using Neural Networs(Generative adversarial network)
+  - The text is processed and converted into images using Neural Networks(Generative adversarial network)
   - The generated images are shown to the smart screen in the classroom or to the induvidual screen of the student(Remote Classroom).(Sessions can be viewed on our website)
 
 <p align="center">
