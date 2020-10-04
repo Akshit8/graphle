@@ -28,7 +28,6 @@
 <br>
 <br>
 <br>
-<br>
 <p align="center">
  <img src = "assets/img/classroom.png">
 </p>
