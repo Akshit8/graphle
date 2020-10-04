@@ -22,8 +22,16 @@
   - The text is processed and converted into images using Neural Networs(Generative adversarial network)
   - The generated images are shown to the smart screen in the classroom or to the induvidual screen of the student(Remote Classroom).(Sessions can be viewed on our website)
 
-![Remote](assets/img/remote.png)<br/>
-![Classroom](assets/img/classroom.png)
+<p align="center">
+ <img src = "assets/img/remote.svg">
+</p>
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+ <img src = "assets/img/classroom.svg">
+</p>
 
 <h2 align="center">Neural Network Architecture</h2>
 <br>
