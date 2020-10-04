@@ -13,7 +13,7 @@
 </div>
 
 <br>
-<h2 align="center">Research</h2>
+<h2 align="center">Market Research</h2>
 <br>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <br>
-<h2 align="center">Solution - Workflow</h2>
+<h2 align="center">Our Solution</h2>
 <br>
 
  - An android app which captures speech of the teacher/instructor and converts it to text and sends it to our backend
@@ -49,7 +49,7 @@
 <br>
 
 <p align="center">
- <img src = "assets/img/workflow.png">
+ <img src = "assets/img/workflow.svg">
 </p>
 
 <br>
