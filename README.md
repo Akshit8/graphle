@@ -13,6 +13,7 @@
  - Children with autism have amazing visual understanding capabilities and our project aims to make the long complicated statments into visual content to help children with autism learn in a better way
 
 <h2 align="center">Research</h2>
+<br>
 <p align="center">
  <img src = "assets/img/Stats.svg">
 </p>
