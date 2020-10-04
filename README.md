@@ -21,9 +21,6 @@
 </p>
 
 <br>
-<br>
-
-<br>
 <h2 align="center">User Research</h2>
 <br>
 
