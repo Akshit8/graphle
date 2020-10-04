@@ -2,6 +2,10 @@
  <img height="80" src = "assets/img/Graphle.png">
 </p>
 
+<p align="center">
+ <img height="100" src = "assets/img/Quote.png">
+</p>
+
 ### Graphle is a tool to help children with autism to learn in a better way by visualizing content.
 
 ## Problem statement
