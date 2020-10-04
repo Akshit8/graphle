@@ -8,6 +8,11 @@
 
 <p align="center">Graphle is a service build to make learning easy for autistic students. It takes in real time input from the teacher, and arranges it in a visual manner</p>
 
+<div align="center">
+  <a href="https://graphle.ml">Start Graphling</a>
+</div>
+
+<br>
 <h2 align="center">Research</h2>
 <br>
 
