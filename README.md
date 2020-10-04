@@ -41,7 +41,10 @@
 <h2 align="center">Neural Network Architecture</h2>
 <br>
 
-[Reference](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)
+<p align="center">
+ <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf">Reference</a>
+</p>
+<br>
 ![Architecture](assets/img/GAN.png)
 
 <br>
