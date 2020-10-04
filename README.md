@@ -23,6 +23,10 @@
 <br>
 <br>
 
+<br>
+<h2 align="center">User Research</h2>
+<br>
+
 <p align="center">
  <img src = "assets/img/stats2.svg">
 </p>
