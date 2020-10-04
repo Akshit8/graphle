@@ -1,9 +1,9 @@
 <p align="center">
- <img height="80" src = "Assets/img/Graphle.png">
+ <img height="80" src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/Graphle.png">
 </p>
 
 <p align="center">
- <img height="100" src = "Assets/img/Quote.svg">
+ <img height="100" src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/Quote.svg">
 </p>
 
 <p align="center">Graphle is a service build to make learning easy for autistic students. It takes in real time input from the teacher, and arranges it in a visual manner</p>
@@ -25,7 +25,7 @@ With use of cutting-edge technology, Graphle can be of greate use in remote educ
 <br>
 
 <p align="center">
- <img src = "Assets/img/Stats.svg">
+ <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/Stats.svg">
 </p>
 
 <br>
@@ -33,7 +33,7 @@ With use of cutting-edge technology, Graphle can be of greate use in remote educ
 <br>
 
 <p align="center">
- <img src = "Assets/img/stats2.svg">
+ <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/stats2.svg">
 </p>
 
 <br>
@@ -45,12 +45,12 @@ With use of cutting-edge technology, Graphle can be of greate use in remote educ
   - The generated images are shown to the smart screen in the classroom or to the induvidual screen of the student(Remote Classroom).(Sessions can be viewed on our website)
 
 <p align="center">
- <img src = "Assets/img/remote.png">
+ <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/remote.png">
 </p>
 <br>
 <br>
 <p align="center">
- <img src = "Assets/img/classroom.png">
+ <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/classroom.png">
 </p>
 
 <br>
@@ -62,7 +62,7 @@ With use of cutting-edge technology, Graphle can be of greate use in remote educ
 <br>
 
 <p align="center">
- <img src = "Assets/img/GAN.png">
+ <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/GAN.png">
 </p>
 
 <br>
@@ -70,7 +70,7 @@ With use of cutting-edge technology, Graphle can be of greate use in remote educ
 <br>
 
 <p align="center">
- <img src = "Assets/img/workflow.svg">
+ <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/workflow.svg">
 </p>
 
 <br>
@@ -78,5 +78,5 @@ With use of cutting-edge technology, Graphle can be of greate use in remote educ
 <br>
 
 <p align="center">
- <img src = "Assets/img/techstack.svg">
+ <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/techstack.svg">
 </p>
