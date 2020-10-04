@@ -21,6 +21,13 @@
 </p>
 
 <br>
+<br>
+
+<p align="center">
+ <img src = "assets/img/stats2.svg">
+</p>
+
+<br>
 <h2 align="center">Our Solution</h2>
 <br>
 
@@ -39,10 +46,15 @@
 
 <br>
 <h2 align="center">Neural Network Architecture</h2>
+
+<p align="center">
+ <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf">Reference</a>
+</p>
 <br>
 
-[Reference](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)
-![Architecture](assets/img/GAN.png)
+<p align="center">
+ <img src = "assets/img/GAN.png">
+</p>
 
 <br>
 <h2 align="center">Workflow</h2>
