@@ -43,10 +43,14 @@
 <h2 align="center">Workflow</h2>
 <br>
 
-![workflow](assets/img/workflow.png)
+<p align="center">
+ <img src = "assets/img/workflow.png">
+</p>
 
 <br>
 <h2 align="center">Tech Stacks</h2>
 <br>
 
-![Tech Stack](assets/img/techstack.png)
+<p align="center">
+ <img src = "assets/img/techstack.png">
+</p>
