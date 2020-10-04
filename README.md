@@ -1,5 +1,5 @@
 <p align="center">
- <img height="80" src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/Graphle.png">
+ <img height="80" src = "https://raw.githubusercontent.com/Akshit8/Graphle/main/Assets/img/Graphle.png">
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@ With use of cutting-edge technology, Graphle can be of greate use in remote educ
 <br>
 
 <p align="center">
- <img src = "https://github.com/Akshit8/Graphle/blob/main/Assets/img/techstack.svg">
+ <img src = "https://raw.githubusercontent.com/Akshit8/Graphle/501fa5949b3629adda2631231798fe1336fd2729/Assets/img/techstack.svg">
 </p>
