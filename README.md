@@ -39,13 +39,15 @@
 
 <br>
 <h2 align="center">Neural Network Architecture</h2>
-<br>
 
 <p align="center">
  <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf">Reference</a>
 </p>
 <br>
-![Architecture](assets/img/GAN.png)
+
+<p align="center">
+ <img src = "assets/img/GAN.png">
+</p>
 
 <br>
 <h2 align="center">Workflow</h2>
