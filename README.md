@@ -24,9 +24,7 @@
 [Reference](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)
 ![Architecture](assets/img/GAN.png)
 
-## Screenshots
-![Screenshot](assets/screens/1.png)
-![Remote](assets/screens/2.png)
-
+## workflow
+![workflow](assets/img/workflow.png)
 
 ![Tech Stack](assets/img/techstack.png)
