@@ -29,7 +29,7 @@
 </p>
 
 <br>
-<h2 align="center">Our Solution</h2>
+<h2 align="center">What have we build?</h2>
 <br>
 
  - An android app which captures speech of the teacher/instructor and converts it to text and sends it to our backend
@@ -58,7 +58,7 @@
 </p>
 
 <br>
-<h2 align="center">Workflow</h2>
+<h2 align="center">How it works?</h2>
 <br>
 
 <p align="center">
