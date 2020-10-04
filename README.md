@@ -6,20 +6,14 @@
  <img height="100" src = "assets/img/Quote.svg">
 </p>
 
-### Graphle is a tool to help children with autism to learn in a better way by visualizing content.
-
-## Problem statement
- - 1 in every 54 children is reported to have autism and these children find it hard to understand complex statements or instructions in their education.
- - Children with autism have amazing visual understanding capabilities and our project aims to make the long complicated statments into visual content to help children with autism learn in a better way
+<p align="center">Graphle is a service build to make learning easy for autistic students. It takes in real time input from the teacher, and arranges it in a visual manner</p>
 
 <h2 align="center">Research</h2>
 <br>
+
 <p align="center">
  <img src = "assets/img/Stats.svg">
 </p>
- - It is estimated that over 11 million kids have autism and 75 % of them face problems in learning and schooling
- - 95 % of those kids don't like school or are treated badly or bullied
- - After extensive research on methods to teach autistic children, it is evident that visual content and visual representation is the best way to teach the children.
 
 ## Solution - Workflow
 
